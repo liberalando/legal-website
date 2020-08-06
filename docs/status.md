@@ -30,7 +30,9 @@ financièrement auprès d'éditeurs de logiciels libres ou en en créant elle-m�
 Le siège social est fixé à l'adresse suivante :
 
 > chez Mme Laura Thiant
+> 
 > 33 chemin de Nicol
+>
 > 31200 Toulouse.
 
 Il pourra être transféré par simple décision du conseil d'administration
@@ -100,7 +102,8 @@ La qualité de membre se perd par :
 
 1. La démission ;
 2. Le décès ;
-3. La radiation prononcée par le conseil d'administration pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été
+3. La radiation prononcée par le conseil d'administration pour non-paiement
+de la cotisation ou pour motif grave, l'intéressé ayant été
 invité par mail à fournir des explications devant le bureau et/ou par écrit.
 
 Le CA vote alors à l'unanimité sur la nature du motif grave avant de
