@@ -42,7 +42,7 @@ entérinée par l'Assemblée Générale des membres .
 
 La durée de l'association est illimitée
 
-## Membres -Composition
+## Membres -- Composition
 
 Peuvent être membres de l'association toute personne physique ou morale
 souhaitant contribuer à la diffusion de la culture du libre, adhérant à
