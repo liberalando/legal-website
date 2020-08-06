@@ -29,10 +29,8 @@ financièrement auprès d'éditeurs de logiciels libres ou en en créant elle-m�
 
 Le siège social est fixé à l'adresse suivante :
 
-> chez Mme Laura Thiant
-> 
-> 33 chemin de Nicol
->
+> chez Mme Laura Thiant  
+> 33 chemin de Nicol  
 > 31200 Toulouse.
 
 Il pourra être transféré par simple décision du conseil d'administration
