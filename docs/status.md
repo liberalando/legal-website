@@ -480,4 +480,6 @@ recevoir, à laisser visiter ses établissements par les représentants de
 ces autorités compétents et à leur rendre compte du fonctionnement
 desdits établissements.
 
+---
+
 Fait à Toulouse, le 4 août 2020
